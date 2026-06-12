@@ -1,0 +1,6 @@
+2026-06-12 09:59:00,798 [INFO] Sending order request: BUY MARKET 0.01 BTCUSDT 
+2026-06-12 09:59:00,800 [ERROR] Unexpected Failure: name 'cite' is not defined
+2026-06-12 10:00:24,705 [INFO] Sending order request: BUY MARKET 0.01 BTCUSDT 
+2026-06-12 10:00:25,649 [INFO] Order successfully executed. Order ID: 14995250839
+2026-06-12 10:01:51,730 [INFO] Sending order request: BUY LIMIT 0.01 BTCUSDT @ 60000.0
+2026-06-12 10:01:52,505 [INFO] Order successfully executed. Order ID: 14995314231
